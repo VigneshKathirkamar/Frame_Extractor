@@ -1,6 +1,6 @@
 # Frame_Extractor
 
-This project is intended to extract frames from a given video at different image format
+This project is intended to extract frames from a given video at different image format using a UI created using Qt
 
 Steps to install pyqt designer
 1. pip3 install --user pyqt5
