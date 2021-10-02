@@ -1,4 +1,5 @@
 # Frame_Extractor
+Frames / images are the building blocks of training for any kind of object detection model. To extract frames from a given video, this Qt based app will be useful
 
 This project is intended to extract frames from a given video at different image format using a UI created using Qt
 
